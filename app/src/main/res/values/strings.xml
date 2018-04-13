@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Список сотрудников</string>
+    <string name="choose_date">Выбор даты</string>
+    <string name="btn_ready">Готово</string>
 </resources>
